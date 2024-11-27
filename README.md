@@ -3,8 +3,8 @@
 <div alin="right">
   <img src="https://komarev.com/ghpvc/?username=username">
 </div>
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 📫 How to reach me: @Naoki_karasawa
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+- 📫 How to reach me: [Twitter - @Naoki_karasawa](https://twitter.com/naoki_karasawa/)
 <br>
 <!--
 **Naoki-Karasawa/Naoki-Karasawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
