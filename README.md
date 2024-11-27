@@ -1,5 +1,11 @@
 ## Hi there 👋
-
+<!-- 1. Github Usernameを変更 -->
+<div alin="right">
+  <img src="https://komarev.com/ghpvc/?username=username">
+</div>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+- 📫 How to reach me: @Naoki_karasawa
+<br>
 <!--
 **Naoki-Karasawa/Naoki-Karasawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
